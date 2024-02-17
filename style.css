@@ -34,13 +34,13 @@ body {
 }
 
 .big-wrapper.light {
-  background-image: url('../img/bg-light.jpg');
+  background-image: url('./img/bg-light.jpg');
   background-size: cover; 
   background-position: center; 
 }
 
 .big-wrapper.dark {
-  background-image: url('../img/bg-dark.jpg');
+  background-image: url('./img/bg-dark.jpg');
   background-size: cover; 
   background-position: center; 
 }
