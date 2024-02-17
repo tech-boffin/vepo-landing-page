@@ -34,17 +34,16 @@ body {
 }
 
 .big-wrapper.light {
-  background-image: url('../img/bg-light.png');
+  background-image: url('../img/bg-light.jpg');
   background-size: cover; 
   background-position: center; 
 }
 
 .big-wrapper.dark {
-  background-image: url('../img/bg-dark.png');
+  background-image: url('../img/bg-dark.jpg');
   background-size: cover; 
   background-position: center; 
 }
-  
 
 .stop-scrolling {
   height: 100%;
